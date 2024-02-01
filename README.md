@@ -1,4 +1,4 @@
-# MyanmarGPT-Movement
+# MyanmarGPT-Movement (မြန်မာ့အေအိုင်လှုပ်ရှားမှု)
 ## AI Movement in Myanmar initiated by Myanmar GPT 
 
 2019 လောက်တုန်းက ကျွန်တော်ဆေးတက္ကသိုလ်မန္တလေးက စားပွဲခုံတခုပေါ်မှာ Machine learning model တခုကို အကျေအလည်တွက်ထုတ်နေပါတယ်။ 
