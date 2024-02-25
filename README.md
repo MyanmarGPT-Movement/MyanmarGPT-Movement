@@ -1,5 +1,5 @@
 # MyanmarGPT-Movement (မြန်မာ့အေအိုင်လှုပ်ရှားမှု)
-## AI Movement in Myanmar initiated by Myanmar GPT 
+## AI Movement in Myanmar initiated by Myanmar GPT [(ဗမာလိုအသေးစိတ်ဖတ်ရန်)](https://github.com/MyanmarGPT-Movement/MyanmarGPT-Movement?tab=readme-ov-file#story-behind-myanmar-gpt-movement)
 
 MyanmarGPT Movement is a movement for Artificial Intelligence in Myanmar.
 The Movement was initiated by the release of MyanmarGPT, a Burmese language GPT in 2023.
