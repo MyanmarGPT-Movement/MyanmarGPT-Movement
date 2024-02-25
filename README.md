@@ -1,6 +1,44 @@
 # MyanmarGPT-Movement (မြန်မာ့အေအိုင်လှုပ်ရှားမှု)
 ## AI Movement in Myanmar initiated by Myanmar GPT 
 
+MyanmarGPT Movement is a movement for Artificial Intelligence in Myanmar.
+The Movement was initiated by the release of MyanmarGPT, a Burmese language GPT in 2023.
+
+After the release of the first open-source, usable foundational Burmese language in Myanmar, I, [Min Si Thu](https://github.com/MinSiThu) feel like we need to move further in the field of Artificial Intelligence to explore more and more machine learning models, projects, datasets and activities in Myanmar.
+
+Thus, why I started a movement on Artificial Intelligence, named after MyanmarGPT, which has several impacts and influences on the local communities in Myanmar.
+
+### How the MyanmarGPT Movement works
+
+MyanmarGPT Movement is a movement for everyone around the world for the development of AI fields and technologies in Myanmar. 
+Not only the Burmese language but also various fields interested contributors can be executed, collaborated, and maintained.
+
+The purpose of MyanmarGPT is to support these projects in the ways of people can.
+
+Machine learning models, datasets, papers, articles, books, applications, communities, events, tutorial videos & many types of projects are listed, supported, and collaborated under the name of MyanmarGPT Movement.
+
+The ownership and copyright of these awesome works are owned by their respective creators and contributors. 
+Both commercial and open-source projects are included.
+
+On Social Networks, We use the "#MyanmarGPTMovement" hashtag for respective projects.
+Everyone who puts this "#MyanmarGPTMovement" on their projects is regarded as MyanmarGPT Movement.
+
+### Contributors
+
+There are two types of contributors - Individual & Organization
+
+We list the projects and respective contributors here.
+
+- [MyanmarGPT-Movement Logo Project](https://github.com/MyanmarGPT-Movement/MyanmarGPT-Movement-Logo)
+  - [Sitt Wai Yan](), []()
+
+
+
+### Contact
+[Min Si Thu](https://www.linkedin.com/in/min-si-thu/)
+
+## Story behind Myanmar GPT Movement
+
 2019 လောက်တုန်းက ကျွန်တော်ဆေးတက္ကသိုလ်မန္တလေးက စားပွဲခုံတခုပေါ်မှာ Machine learning model တခုကို အကျေအလည်တွက်ထုတ်နေပါတယ်။ 
 
 ကျောင်းနေဘက်သူငယ်ချင်းတယောက်က "သားကြီး၊ ဘာတွေလုပ်နေတာလဲ" ဆိုပြီးတော့ မေးတော့၊ ကျွန်တော်သူ့ကို machine learning အကြောင်းကို တနာရီလောက်ထိုင်ရှင်းပြဖြစ်ခဲ့ပါတယ်။ သူငယ်ချင်းဟာ တကယ်ကိုစိတ်ဝင်တစားနဲ့နားထောင်ပေးခဲ့ပါတယ်။ နောက်ဆုံးတော့ မေးတဲ့မေးခွန်းတခုကြောင့် ကျွန်တော့်မှာ နှုတ်ဆိတ်ခဲ့ရပါတော့တယ်။ 
